@@ -139,3 +139,7 @@ traceroute to 10.10.30.101 (10.10.30.101), 30 hops max, 60 byte packets
 
 Tehtävässä eniten aikaa meni verkon rakenteen selvittämiseen ja eri IP-osoitteiden löytämiseen. Kaikkia osoitteita ei näkynyt yhdellä komennolla, joten niitä piti tarkistaa eri konteista ja topologiatiedostosta. Ping- ja traceroute-testien avulla oli helpompi hahmottaa, miten liikenne kulkee reitittimien välillä.
 Dokumentaatiosta on hyötyä verkon ylläpidossa, koska sen avulla voi nopeasti tarkistaa, missä verkossa laite on ja minkä reitittimen kautta liikenne kulkee. Se helpottaa myös vianetsintää, jos yhteys johonkin verkkoon ei myöhemmin toimi.
+
+7. Tekoälyn käyttö
+
+Käytin tehtävässä tekoälyä apuna verkkoympäristön komentojen ja niiden tulosteiden ymmärtämisessä. Kysyin myös apua koko verkkokaavion ymmärtämisessä ja tiedon analysoinnissa. 
